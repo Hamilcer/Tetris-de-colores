@@ -10,7 +10,4 @@ public class Ficha
                               "Amarillo",
                               "Verde   "};
     }
-    // public static String getDefaultColor(){
-    //     return defaultColor;
-    // }
 }
